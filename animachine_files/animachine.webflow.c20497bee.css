@@ -203,7 +203,7 @@ p {
   background-image: -webkit-linear-gradient(270deg, rgba(251, 220, 53, .5), rgba(251, 220, 53, .22)), url("http://uploads.webflow.com/5740dd3515d374a82613dd70/574b5c434f34c8362769a6a8_output_GXmWEP.gif");
   background-image: linear-gradient(180deg, rgba(251, 220, 53, .5), rgba(251, 220, 53, .22)), url("http://uploads.webflow.com/5740dd3515d374a82613dd70/574b5c434f34c8362769a6a8_output_GXmWEP.gif");
   background-position: 0px 0px, 50% 50%;
-  background-size: auto, cover;
+  background-size: contain;
   text-align: center;
 }
 
